@@ -4,6 +4,7 @@ An income calculator designed for **Philippine Government Employees** and **Free
 
 ## 🚀 Live Demo
 
+https://salary-calculator-sooty-rho.vercel.app/
 
 ---
 
